@@ -1,2 +1,2 @@
-# FemShoe Archive
-Place for all things FemShoe!
+# FemSho Archive
+Place for all things FemSho!
